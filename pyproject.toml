@@ -1,0 +1,13 @@
+[project]
+name = "20260308-sunday-stadium-pulse-building-sports-data-visualizations-on-deadline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "herhoopstats>=0.0.1",
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "pip>=26.0.1",
+    "seaborn>=0.13.2",
+]
